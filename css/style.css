@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#sign-up{
+    background-color: turquoise;
+    width: 50%;
+    text-align: center;
+    margin: 75px auto;
+}
+#sign-up img{
+    text-align: center;
+    width: 150px;
+    display: block;
+    margin: auto
+}
+#sign-up h1{
+    color: white;
+}
+input{
+    width: 90%;
+    background: transparent;
+    padding: 8px;
+    color: black;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+input::placeholder{
+    color: black;
+}
+.btn{
+    width: 91%;
+    margin-bottom: 20px;
+    background-color: white;
+    color: rgb(7, 92, 104);
+    border: none;
+}
+a{
+    color: white;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
